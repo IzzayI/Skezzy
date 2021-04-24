@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.button {
+	border-radius: 20px;
+	border-style: solid;
+	border-color: floralwhite;
+	color: floralwhite;
+	background-color: black;
+	padding: 5px 10px 8px 10px;
+}
+
+.button:hover {
+	border-color: black;
+	color: black;
+	background-color: floralwhite;
+	
+}
+
+.border {
+	border-radius: 20px;
+}
