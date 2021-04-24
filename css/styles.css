@@ -1,10 +1,27 @@
 @charset "utf-8";
 /* CSS Document */
 
+footer {
+	font-size: 12px;
+}
+
 .position-middle {
 	margin: auto;
 }
 
 .headline {
 	font-size: 30px;
+}
+
+.logo {
+	height: 30px;
+	
+}
+
+form {
+	margin: 90px;
+}
+
+.form-row {
+	margin: 10px;
 }
