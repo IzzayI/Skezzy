@@ -33,3 +33,19 @@ footer {
 	width: 200px;
 	
 }
+
+.non-digit {
+	background-image: url("../image/nondigit_header.png");
+	background-size: cover;
+}
+
+.jumbotron {
+	height: 200px;
+	padding-top: 75px;
+}
+
+.placeholder {
+	background-color: black;
+	margin: auto;
+	
+}
