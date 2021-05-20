@@ -35,17 +35,21 @@ footer {
 }
 
 .non-digit {
-	background-image: url("../image/nondigit_header.png");
+	background-image: url(../image/nondigit_header.png);
 	background-size: cover;
 }
 
 .jumbotron {
-	height: 200px;
-	padding-top: 75px;
+	height: 200%;
+	padding: 7%;
 }
 
 .placeholder {
 	background-color: black;
-	margin: auto;
+	padding: 30%;
+}
+
+.img-fluid {
+	margin: 20px;
 	
 }
