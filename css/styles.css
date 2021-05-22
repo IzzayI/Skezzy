@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+h1 {
+	margin-top: 15%;
+	margin-bottom: 5%;
+}
+
 footer {
 	font-size: 12px;
 }
@@ -21,8 +26,6 @@ video {
 	height: 40px;
 }
 
-.margin {
-	margin: 90px;
 }
 
 .form-row {
@@ -52,4 +55,10 @@ video {
 .img-fluid {
 	margin: 20px;
 	
+}
+
+.navbar {
+	position: fixed;
+	 
+	width: 100%;
 }
