@@ -26,8 +26,6 @@ video {
 	height: 40px;
 }
 
-}
-
 .form-row {
 	margin: 3% 10% 3% 10%;
 }
@@ -57,7 +55,7 @@ video {
 	
 }
 
-.navbar {
+.fixed-top {
 	position: fixed;
 	 
 	width: 100%;
