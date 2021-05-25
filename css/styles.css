@@ -49,6 +49,14 @@ a {
 	background-size: cover;
 }
 
+.digit {
+	background-image: url("../image/digital_snailsketch.jpg");
+	background-size: cover;
+	align-self: center;
+	
+	
+}
+
 .jumbotron {
 	height: 200%;
 	padding: 7%;
