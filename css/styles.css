@@ -7,6 +7,11 @@ h1 {
 	color: darkgoldenrod;
 }
 
+h3 {
+	font-family: 'Parisienne', cursive;
+	margin-bottom: 7%;
+}
+
 footer {
 	font-size: 12px;
 }
