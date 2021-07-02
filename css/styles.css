@@ -5,7 +5,7 @@ h1 {
 	padding-top: 15%;
 	padding-bottom: 10%;
 	color: darkgoldenrod;
-	marigin-top: 40px;
+	margin-top: 40px;
 }
 
 h3 {
@@ -28,7 +28,6 @@ a {
 #myworktitle {
 	background-image: url(/image/digital_redqueencoloured.jpg);
 	background-repeat: no-repeat, repeat;
-	background-postition: center;
 	background-size: cover;
 	color: white;
 	padding: 30%;
