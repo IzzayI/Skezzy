@@ -26,7 +26,7 @@ a {
 }
 
 #myworktitle {
-	background-image: url(/image/digital_redqueencoloured.jpg);
+	background-image: url("../image/digital_redqueencoloured.jpg");
 	background-repeat: no-repeat, repeat;
 	background-size: cover;
 	color: white;
