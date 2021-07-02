@@ -29,8 +29,9 @@ a {
 	background-image: url("../image/digital_redqueencoloured.jpg");
 	background-repeat: no-repeat, repeat;
 	background-size: cover;
+	background-attachment: fixed;
 	color: white;
-	padding: 30%;
+	padding: 20%;
 	margin-top: 40px;
 }
 
