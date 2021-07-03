@@ -3,7 +3,6 @@
 
 main {
 	margin-top: 45px;
-	background-color: #FFF4EC;
 }
 
 .bg-dark {
@@ -38,14 +37,18 @@ a {
 	color: goldenrod;
 }
 
+.row {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
 #myworktitle {
+	margin-top: 45px;
 	background-image: url("../image/digital_redqueencoloured.jpg");
 	background-repeat: no-repeat, repeat;
 	background-size: cover;
-	background-attachment: fixed;
 	color: white;
-	padding: 20%;
-	margin-top: 40px;
+	padding 20%;
 }
 
 .headline {
@@ -57,8 +60,6 @@ a {
     top: 0;
     left: 0;
     z-index: 1;
-	object-fit: cover;
-	align self: center; 
 	
 	
 	
