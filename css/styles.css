@@ -48,7 +48,7 @@ a {
 	background-repeat: no-repeat, repeat;
 	background-size: cover;
 	color: white;
-	padding 20%;
+	padding: 30%;
 }
 
 .headline {
@@ -60,9 +60,8 @@ a {
     top: 0;
     left: 0;
     z-index: 1;
-	
-	
-	
+	margin-top: 19%;	
+	margin-left: 5%;
 }
 
 .logo {
