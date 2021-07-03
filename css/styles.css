@@ -1,10 +1,23 @@
 @charset "utf-8";
 /* CSS Document */
 
+main {
+	margin-top: 45px;
+	background-color: #FFF4EC;
+}
+
+.bg-dark {
+	colour: #262012;
+}
+
+p {
+	color: #262012;
+}
+
 h1 {
 	padding-top: 15%;
 	padding-bottom: 10%;
-	color: darkgoldenrod;
+	color: #F7C46C;
 	margin-top: 40px;
 }
 
@@ -35,16 +48,18 @@ a {
 	margin-top: 40px;
 }
 
-.row {
-	margin-bottom: 10%;
-}
-
-.position-middle {
-	margin: auto;
-}
-
 .headline {
 	font-size: 30px;
+}
+
+.overlay {
+	margin: 0;
+	margin-top: 15%;
+	top: 50%;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 .logo {
@@ -68,24 +83,26 @@ a {
 .digit {
 	background-image: url("../image/digital_snailsketch.jpg");
 	background-size: cover;
-	align-self: center;
-	
-	
+	background-attachment: fixed;
 }
 
 .jumbotron {
 	height: 200%;
 	padding: 7%;
+	background-color: #FFEFEB;
 }
 
 .placeholder {
-	background-color: black;
+	background-color: #262012;
 	padding: 30%;
 }
 
 
 .fixed-top {
 	position: fixed;
-	 
+	width: 100%;
+}
+
+.video {
 	width: 100%;
 }
