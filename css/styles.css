@@ -5,6 +5,10 @@ main {
 	margin-top: 45px;
 }
 
+.rose {
+	background-color: #FFF4EC;
+}
+
 .bg-dark {
 	colour: #262012;
 }
@@ -31,6 +35,8 @@ footer {
 
 video {
 	width: auto;
+	position: absolute;
+	left: 0;
 }
 
 a {
@@ -56,12 +62,8 @@ a {
 }
 
 .overlay {
-	position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-	margin-top: 19%;	
-	margin-left: 5%;
+	position: relative;
+	margin-bottom: 12%;
 }
 
 .logo {
